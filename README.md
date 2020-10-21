@@ -1,6 +1,6 @@
 # chatapp
 
-** Chatting App **
+**Chatting App**
 
 ## Getting Started
 
