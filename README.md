@@ -1,14 +1,24 @@
+
 # chatapp
 
 **App Name- ChatApp**
-**Team- Team 5**
+
+**(Team 5)**
 
 **Members**
 
-*Tonima*
-*Tania*
-*Tasfia*
-*Tithi*
+ - Tonima 
+ - Tania 
+ - Tasfia 
+ - Tithi
 
-## Getting Started
+ 
+## To Do List
+ 
 
+ - [ ] Idea generation
+ - [ ] UI Design
+ - [ ] Database Design
+ - [ ] Module design
+ - [ ] Authentication - Firebase
+ - [ ] Integration
